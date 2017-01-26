@@ -1,0 +1,26 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "prueba para crear app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AggreGonz/testing.git"
+  },
+  "keywords": [
+    "prueba"
+  ],
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AggreGonz/testing/issues"
+  },
+  "homepage": "https://github.com/AggreGonz/testing#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0"
+  }
+}
